@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706832667 source:c:\users\juanp\onedrive\documentos\cucei\24a\sspedd1\tareas\clasesyobjetos\main.cpp
+	<iostream>
+	<cstring>
+	<limits>
+
